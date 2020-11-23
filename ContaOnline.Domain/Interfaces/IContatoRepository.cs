@@ -9,6 +9,5 @@ namespace ContaOnline.Domain.Interfaces
 {
     public interface IContatoRepository:IRepository<Contato>
     {
-
     }
 }

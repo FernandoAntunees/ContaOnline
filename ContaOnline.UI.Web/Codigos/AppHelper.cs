@@ -75,7 +75,6 @@ namespace ContaOnline.UI.Web
         {
             return new ContaRepository();
         }
-
     }
     
 }

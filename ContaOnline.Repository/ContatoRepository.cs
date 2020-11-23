@@ -34,7 +34,7 @@ namespace ContaOnline.Repository
                 Db.Execute("ContatoEmpresaIncluir", contato);
             }
             else
-            {
+            {                
                 Db.Execute("ContatoPessoaIncluir", contato);
             }
             

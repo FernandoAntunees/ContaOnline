@@ -137,6 +137,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Codigos\AppHelper.cs" />
+    <Compile Include="Codigos\ValidarCPF.cs" />
     <Compile Include="Controllers\AppController.cs" />
     <Compile Include="Controllers\ContaCategoriaController.cs" />
     <Compile Include="Controllers\ContaController.cs" />
